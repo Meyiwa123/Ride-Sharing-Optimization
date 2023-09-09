@@ -4,6 +4,18 @@
 
 This Python script implements a ride-sharing optimization system for a ride-sharing company operating in an urban area. The goal of this script is to efficiently match incoming ride requests with available drivers, calculate optimal routes, and provide a seamless experience for passengers and drivers.
 
+## Problem Description
+
+In urban areas, ride-sharing platforms like Uber and Lyft have become increasingly popular as a means of transportation. 
+However, they face a significant challenge in optimizing ride assignments and route planning to ensure efficient use of resources, 
+minimize passenger wait times, and reduce travel costs for both riders and drivers.
+
+## Problem Statement
+
+Imagine you are a software engineer working for a ride-sharing company. The company operates in a large city with thousands of 
+drivers and passengers using the platform daily. The problem at hand is to optimize the ride assignment and route planning process 
+to improve the overall efficiency of the system while providing a seamless experience for passengers and drivers.
+
 ## Features
 
 - **Demand and Supply Matching**: Efficiently matches incoming ride requests with available drivers, considering factors like passenger location, driver location, and ride preferences.
